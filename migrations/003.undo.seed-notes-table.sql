@@ -1,0 +1,1 @@
+truncate notes RESTART IDENTITY CASCADE;
