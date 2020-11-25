@@ -1,3 +1,5 @@
 # Noteful API Server  
-This is a express.js based backend for the Noteful note taking app  
-Live Link: https://gentle-retreat-46811.herokuapp.com/
+Live Link: https://noteful-client-vercel.vercel.app/  
+## Summary  
+This is a express.js based back-end for the Noteful note taking app. It is hosted on Heroku with PostGreSQL as the persistence layer.  
+API Base URL: https://gentle-retreat-46811.herokuapp.com/
